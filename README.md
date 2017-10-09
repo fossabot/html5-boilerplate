@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/h5bp/html5-boilerplate.svg)](https://travis-ci.org/h5bp/html5-boilerplate)
 [![devDependency Status](https://david-dm.org/h5bp/html5-boilerplate/dev-status.svg)](https://david-dm.org/h5bp/html5-boilerplate#info=devDependencies)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5-boilerplate.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5-boilerplate?ref=badge_shield)
 
 HTML5 Boilerplate is a professional front-end template for building
 fast, robust, and adaptable web apps or sites.
@@ -90,3 +91,6 @@ the [guidelines](CONTRIBUTING.md):
 ## License
 
 The code is available under the [MIT license](LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5-boilerplate.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fhtml5-boilerplate?ref=badge_large)
